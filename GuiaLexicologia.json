@@ -1,0 +1,1056 @@
+[
+  {
+    "num": 1,
+    "Palabra": "sumar",
+    "sinonimo": [
+      "añadir",
+      "incorporar",
+      "agregar",
+      "más",
+      "incrementar"
+    ]
+  },
+  {
+    "num": 2,
+    "Palabra": "adicionar",
+    "sinonimo": [
+      "aumentar",
+      "adherir",
+      "acrecentar",
+      "agrandar",
+      "ampliar"
+    ]
+  },
+  {
+    "num": 3,
+    "Palabra": "restar",
+    "sinonimo": [
+      "disminuir",
+      "acotar",
+      "quitar",
+      "rebajar",
+      "faltar"
+    ]
+  },
+  {
+    "num": 4,
+    "Palabra": "sustraer",
+    "sinonimo": [
+      "perder",
+      "reducir",
+      "restringir",
+      "limitar"
+    ]
+  },
+  {
+    "num": 5,
+    "Palabra": "dividir",
+    "sinonimo": [
+      "repartir",
+      "distribuir",
+      "compartir",
+      "fragmentar",
+      "separar"
+    ]
+  },
+  {
+    "num": 6,
+    "Palabra": "fraccionar",
+    "sinonimo": [
+      "seccionar",
+      "disociar",
+      "disgregar",
+      "romper",
+      "trocear"
+    ]
+  },
+  {
+    "num": 7,
+    "Palabra": "multiplicar",
+    "sinonimo": [
+      "reproducir",
+      "repetir",
+      "acrecentar",
+      "proliferar"
+    ]
+  },
+  {
+    "num": 8,
+    "Palabra": "reproducir",
+    "sinonimo": [
+      "incrementar",
+      "crecer",
+      "agrandar",
+      "reiterar"
+    ]
+  },
+  {
+    "num": 9,
+    "Palabra": "soluto",
+    "sinonimo": [
+      "sustancia de menor concentración que se disuelve en un determinado líquido"
+    ]
+  },
+  {
+    "num": 10,
+    "Palabra": "solvente",
+    "sinonimo": [
+      "componente en su mayoría líquida de mayor proporción que disuelve al soluto"
+    ]
+  },
+  {
+    "num": 11,
+    "Palabra": "concentración",
+    "sinonimo": [
+      "cantidad de soluto disuelta en cantidad de solvente"
+    ]
+  },
+  {
+    "num": 12,
+    "Palabra": "átomo",
+    "sinonimo": [
+      "partícula indivisible formada por núcleo, protón y electrón. Mínima cantidad de materia que experimenta cambios químicos"
+    ]
+  },
+  {
+    "num": 13,
+    "Palabra": "partícula",
+    "sinonimo": [
+      "fragmento más pequeño del átomo que mantiene las propiedades de un cuerpo"
+    ]
+  },
+  {
+    "num": 14,
+    "Palabra": "molécula",
+    "sinonimo": [
+      "parte pequeña de cualquier sustancia química formada por dos o más átomos que poseen propiedades de dicha sustancia"
+    ]
+  },
+  {
+    "num": 15,
+    "Palabra": "célula",
+    "sinonimo": [
+      "unidad más pequeña y fundamental de organismos vivos capaz de reproducirse y ser independiente"
+    ]
+  },
+  {
+    "num": 16,
+    "Palabra": "organelo",
+    "sinonimo": [
+      "estructura subcelular que lleva a cabo uno o más trabajos específicos en la célula"
+    ]
+  },
+  {
+    "num": 17,
+    "Palabra": "ADN",
+    "sinonimo": [
+      "ácido desoxirribonucleico. Materia que se ubica en el núcleo de la célula y que contiene información genética (hereditaria) de todo organismo vivo"
+    ]
+  },
+  {
+    "num": 18,
+    "Palabra": "reactivo",
+    "sinonimo": [
+      "que produce una reacción"
+    ]
+  },
+  {
+    "num": 19,
+    "Palabra": "compuesto",
+    "sinonimo": [
+      "material formado por dos o más elementos combinados. Resultado de dos o más reactivos"
+    ]
+  },
+  {
+    "num": 20,
+    "Palabra": "pantagruélico",
+    "sinonimo": [
+      "enorme", 
+      "copioso", 
+      "excesivo", 
+      "descomunal", 
+      "gigantesco"
+    ]
+  },
+  {
+    "num": 21,
+    "Palabra": "dogma",
+    "sinonimo": [
+      "creencia", 
+      "doctrina", 
+      "fundamento"
+    ]
+  },
+  {
+    "num": 22,
+    "Palabra": "meloso",
+    "sinonimo": [
+      "cargante", 
+      "fastidioso", 
+      "zalamero", 
+      "molesto", 
+      "pesado"
+    ]
+  },
+  {
+    "num": 23,
+    "Palabra": "sucinto",
+    "sinonimo": [
+      "resumido", 
+      "corto", 
+      "preciso", 
+      "breve", 
+      "conciso"
+    ]
+  },
+  {
+    "num": 24,
+    "Palabra": "misántropo",
+    "sinonimo": [
+      "retraiado", 
+      "insociable", 
+      "huraño"
+    ]
+  },
+  {
+    "num": 25,
+    "Palabra": "burdo",
+    "sinonimo": [
+      "grosero", 
+      "vulgar", 
+      "ordinario", 
+      "chabacano", 
+      "tosco", 
+      "zafio", 
+      "rústico"
+    ]
+  },
+  {
+    "num": 26,
+    "Palabra": "zarrapastoso",
+    "sinonimo": [
+      "desaseado", 
+      "sucio", 
+      "desaliñado", 
+      "descuidado", 
+      "harapiento"
+    ]
+  },
+  {
+    "num": 27,
+    "Palabra": "escualido",
+    "sinonimo": [
+      "flaco", 
+      "enclenque", 
+      "macilento", 
+      "enteco", 
+      "enjuto"
+    ]
+  },
+  {
+    "num": 28,
+    "Palabra": "tenue",
+    "sinonimo": [
+      "delicado", 
+      "frágil", 
+      "leve"
+    ]
+  },
+  {
+    "num": 29,
+    "Palabra": "parsimonia",
+    "sinonimo": [
+      "moderación", 
+      "mesura", 
+      "parquedad"
+    ]
+  },
+  {
+    "num": 30,
+    "Palabra": "locuaz",
+    "sinonimo": [
+      "comunicativo", 
+      "efusivo", 
+      "hablador", 
+      "parlanchín", 
+      "conversador"
+    ]
+  },
+  {
+    "num": 31,
+    "Palabra": "inverosímil",
+    "sinonimo": [
+      "improbable", 
+      "increíble", 
+      "inadmisible"
+    ]
+  },
+  {
+    "num": 32,
+    "Palabra": "irascible",
+    "sinonimo": [
+      "exaltado", 
+      "airado", 
+      "excitable", 
+      "enojado"
+    ]
+  },
+  {
+    "num": 33,
+    "Palabra": "protervo",
+    "sinonimo": [
+      "perverso", 
+      "malintencionado", 
+      "avieso", 
+      "ruin", 
+      "malvado"
+    ]
+  },
+  {
+    "num": 34,
+    "Palabra": "truculento",
+    "sinonimo": [
+      "atroz", 
+      "cruel", 
+      "feroz"
+    ]
+  },
+  {
+    "num": 35,
+    "Palabra": "desdén",
+    "sinonimo": [
+      "indiferencia", 
+      "apatía", 
+      "desprecio"
+    ]
+  },
+  {
+    "num": 36,
+    "Palabra": "desidia",
+    "sinonimo": [
+      "flojera", 
+      "dejadez", 
+      "indiferencia"
+    ]
+  },
+  {
+    "num": 37,
+    "Palabra": "hado",
+    "sinonimo": [
+      "casualidad", 
+      "suerte", 
+      "azar", 
+      "eventualidad"
+    ]
+  },
+  {
+    "num": 38,
+    "Palabra": "fehaciente",
+    "sinonimo": [
+      "verdadero", 
+      "fidedigno", 
+      "irrefrenable", 
+      "real"
+    ]
+  },
+  {
+    "num": 39,
+    "Palabra": "flemático",
+    "sinonimo": [
+      "frío", 
+      "imposible", 
+      "insensible", 
+      "indiferente", 
+      "apático", 
+      "tranquilo"
+    ]
+  },
+  {
+    "num": 40,
+    "Palabra": "deidificar",
+    "sinonimo": [
+      "divinizar", 
+      "endiosar", 
+      "glorificar", 
+      "alabar", 
+      "elogiar", 
+      "enaltecer"
+    ]
+  },
+  {
+    "num": 41,
+    "Palabra": "ubérrimo",
+    "sinonimo": [
+      "abundante", 
+      "copioso", 
+      "fecundo", 
+      "fructuoso"
+    ]
+  },
+  {
+    "num": 42,
+    "Palabra": "paupérrimo",
+    "sinonimo": [
+      "miserable", 
+      "empobrecido", 
+      "míserimo"
+    ]
+  },
+  {
+    "num": 43,
+    "Palabra": "troglodita",
+    "sinonimo": [
+      "retrógrado", 
+      "anticuado", 
+      "cavernario", 
+      "obsoleto"
+    ]
+  },
+  {
+    "num": 44,
+    "Palabra": "neófito",
+    "sinonimo": [
+      "novato", 
+      "inexperto", 
+      "principiante", 
+      "novel", 
+      "lego"
+    ]
+  },
+  {
+    "num": 45,
+    "Palabra": "atiborrar",
+    "sinonimo": [
+      "llenar", 
+      "colmar", 
+      "saturar", 
+      "atestar"
+    ]
+  },
+  {
+    "num": 46,
+    "Palabra": "batahola",
+    "sinonimo": [
+      "bulla", 
+      "tumulto", 
+      "agitación", 
+      "desenfreno"
+    ]
+  },
+  {
+    "num": 47,
+    "Palabra": "arcaico",
+    "sinonimo": [
+      "viejo", 
+      "decadente", 
+      "decrépito", 
+      "obsoleto"
+    ]
+  },
+  {
+    "num": 48,
+    "Palabra": "díscolo",
+    "sinonimo": [
+      "rebelde", 
+      "indócil", 
+      "libertino", 
+      "chúcaro"
+    ]
+  },
+  {
+    "num": 49,
+    "Palabra": "lid",
+    "sinonimo": [
+      "lucha", 
+      "combate", 
+      "pugna", 
+      "reyerta"
+    ]
+  },
+  {
+    "num": 50,
+    "Palabra": "dolo",
+    "sinonimo": [
+      "estafa", 
+      "fraude", 
+      "latrocinio"
+    ]
+  },
+  {
+    "num": 51,
+    "Palabra": "demudarse",
+    "sinonimo": [
+      "alterarse", 
+      "exasperarse", 
+      "aclorarse", 
+      "irritarse"
+    ]
+  },
+  {
+    "num": 52,
+    "Palabra": "acendrar",
+    "sinonimo": [
+      "limpiar", 
+      "refinar", 
+      "depurar", 
+      "acrisolar"
+    ]
+  },
+  {
+    "num": 53,
+    "Palabra": "adepto",
+    "sinonimo": [
+      "afiliado", 
+      "partidario", 
+      "adherente", 
+      "prosélito", 
+      "seguidor"
+    ]
+  },
+  {
+    "num": 54,
+    "Palabra": "tozudez",
+    "sinonimo": [
+      "testarudez", 
+      "porfía", 
+      "terquedad"
+    ]
+  },
+  {
+    "num": 55,
+    "Palabra": "resarcir",
+    "sinonimo": [
+      "compensar", 
+      "indemnizar", 
+      "reparar"
+    ]
+  },
+  {
+    "num": 56,
+    "Palabra": "palmario",
+    "sinonimo": [
+      "claro", 
+      "palpable", 
+      "obvio", 
+      "evidente"
+    ]
+  },
+  {
+    "num": 57,
+    "Palabra": "ducho",
+    "sinonimo": [
+      "diestro", 
+      "avezado", 
+      "experimentado"
+    ]
+  },
+  {
+    "num": 58,
+    "Palabra": "acoquinar",
+    "sinonimo": [
+      "acobardar", 
+      "amilanar", 
+      "amedrentar", 
+      "asustar", 
+      "atemorizar"
+    ]
+  },
+  {
+    "num": 59,
+    "Palabra": "mermar",
+    "sinonimo": [
+      "aminorar", 
+      "menguar", 
+      "atenuar", 
+      "reducir"
+    ]
+  },
+  {
+    "num": 60,
+    "Palabra": "ilegible",
+    "sinonimo": [
+      "ininteligible", 
+      "incomprensible", 
+      "mentira", 
+      "falsa"
+    ]
+  },
+  {
+    "num": 61,
+    "Palabra": "falacia",
+    "sinonimo": [
+      "patraña", 
+      "fraude", 
+      "infundio", 
+      "mentira", 
+      "falsa"
+    ]
+  },
+  {
+    "num": 62,
+    "Palabra": "deferente",
+    "sinonimo": [
+      "respetuoso", 
+      "comedido", 
+      "afable", 
+      "atento", 
+      "amable"
+    ]
+  },
+  {
+    "num": 63,
+    "Palabra": "mesura",
+    "sinonimo": [
+      "prudencia", 
+      "cordura", 
+      "compostura", 
+      "equilibrio"
+    ]
+  },
+  {
+    "num": 64,
+    "Palabra": "mordaz",
+    "sinonimo": [
+      "sarcástico", 
+      "irónico", 
+      "burlesco", 
+      "dicaz"
+    ]
+  },
+  {
+    "num": 65,
+    "Palabra": "blasfemar",
+    "sinonimo": [
+      "maldicir", 
+      "ofender", 
+      "imprecar", 
+      "anatemizar"
+    ]
+  },
+  {
+    "num": 66,
+    "Palabra": "absolver",
+    "sinonimo": [
+      "amnistiar", 
+      "perdonar", 
+      "exculpar", 
+      "condonar", 
+      "indultar"
+    ]
+  },
+  {
+    "num": 67,
+    "Palabra": "subyugar",
+    "sinonimo": [
+      "someter", 
+      "esclavizar", 
+      "domeñar", 
+      "avasallar"
+    ]
+  },
+  {
+    "num": 68,
+    "Palabra": "emancipar",
+    "sinonimo": [
+      "liberar", 
+      "redimir", 
+      "desligar", 
+      "libertar", 
+      "soltar"
+    ]
+  },
+  {
+    "num": 69,
+    "Palabra": "abogar",
+    "sinonimo": [
+      "defender", 
+      "interceder", 
+      "patrocinar", 
+      "ayudar", 
+      "auxiliar"
+    ]
+  },
+  {
+    "num": 70,
+    "Palabra": "cepa",
+    "sinonimo": [
+      "raíz", 
+      "principio", 
+      "origen", 
+      "nacimiento", 
+      "aflorar", 
+      "emerger", 
+      "surgir"
+    ]
+  },
+  {
+    "num": 71,
+    "Palabra": "disipar",
+    "sinonimo": [
+      "desperdiciar", 
+      "malgastar", 
+      "desestimar", 
+      "despilfarrar"
+    ]
+  },
+  {
+    "num": 72,
+    "Palabra": "idóneo",
+    "sinonimo": [
+      "capaz", 
+      "competente", 
+      "apto", 
+      "preparado"
+    ]
+  },
+  {
+    "num": 73,
+    "Palabra": "docto",
+    "sinonimo": [
+      "erudito", 
+      "sabio", 
+      "culto", 
+      "instruido"
+    ]
+  },
+  {
+    "num": 74,
+    "Palabra": "hidalguía",
+    "sinonimo": [
+      "distinción", 
+      "nobleza", 
+      "magnanimidad", 
+      "caballerosidad"
+    ]
+  },
+  {
+    "num": 75,
+    "Palabra": "taxativo",
+    "sinonimo": [
+      "concreto", 
+      "específico", 
+      "expreso", 
+      "claro"
+    ]
+  },
+  {
+    "num": 76,
+    "Palabra": "afable",
+    "sinonimo": [
+      "amable", 
+      "cordial", 
+      "afectuoso", 
+      "atento"
+    ]
+  },
+  {
+    "num": 77,
+    "Palabra": "rebosar",
+    "sinonimo": [
+      "desbordar", 
+      "derramar", 
+      "vaciar"
+    ]
+  },
+  {
+    "num": 78,
+    "Palabra": "abolir",
+    "sinonimo": [
+      "cancelar", 
+      "anular", 
+      "abrogar", 
+      "derogar"
+    ]
+  },
+  {
+    "num": 79,
+    "Palabra": "baldío",
+    "sinonimo": [
+      "despoblado", 
+      "desierto", 
+      "eriazo"
+    ]
+  },
+  {
+    "num": 80,
+    "Palabra": "discurrir",
+    "sinonimo": [
+      "reflexionar", 
+      "pensar", 
+      "meditar", 
+      "cavilar"
+    ]
+  },
+  {
+    "num": 81,
+    "Palabra": "disímil",
+    "sinonimo": [
+      "diferente", 
+      "distinto", 
+      "diverso"
+    ]
+  },
+  {
+    "num": 82,
+    "Palabra": "disoluto",
+    "sinonimo": [
+      "pervertido", 
+      "vicioso", 
+      "lujurioso", 
+      "promiscuo"
+    ]
+  },
+  {
+    "num": 83,
+    "Palabra": "indemne",
+    "sinonimo": [
+      "sano", 
+      "ileso", 
+      "intacto", 
+      "incólume"
+    ]
+  },
+  {
+    "num": 84,
+    "Palabra": "intempestivo",
+    "sinonimo": [
+      "inoportuno", 
+      "inadecuado", 
+      "improcedente"
+    ]
+  },
+  {
+    "num": 85,
+    "Palabra": "arcano",
+    "sinonimo": [
+      "recóndito", 
+      "oculto", 
+      "secreto", 
+      "escondido"
+    ]
+  },
+  {
+    "num": 86,
+    "Palabra": "bastimentos",
+    "sinonimo": [
+      "alimento", 
+      "comida", 
+      "víveres", 
+      "sustento"
+    ]
+  },
+  {
+    "num": 87,
+    "Palabra": "vitorear",
+    "sinonimo": [
+      "aclamar", 
+      "aplaudir", 
+      "homenajear"
+    ]
+  },
+  {
+    "num": 88,
+    "Palabra": "invectiva",
+    "sinonimo": [
+      "afrenta", 
+      "oprobio", 
+      "agravio", 
+      "ofensa"
+    ]
+  },
+  {
+    "num": 89,
+    "Palabra": "contumacia",
+    "sinonimo": [
+      "terquedad", 
+      "pertinacia", 
+      "porfía"
+    ]
+  },
+  {
+    "num": 90,
+    "Palabra": "inerme",
+    "sinonimo": [
+      "indefenso", 
+      "vulnerable", 
+      "conquistable", 
+      "débil"
+    ]
+  },
+  {
+    "num": 91,
+    "Palabra": "cabizbajo",
+    "sinonimo": [
+      "deprimido", 
+      "triste", 
+      "decaído"
+    ]
+  },
+  {
+    "num": 92,
+    "Palabra": "coercer",
+    "sinonimo": [
+      "coatar", 
+      "restringir", 
+      "limitar"
+    ]
+  },
+  {
+    "num": 93,
+    "Palabra": "tahúr",
+    "sinonimo": [
+      "jugador", 
+      "tramposo", 
+      "truhán"
+    ]
+  },
+  {
+    "num": 94.1,
+    "Palabra": "homicida",
+    "sinonimo": [
+      "quien mata una persona"
+    ]
+  },
+  {
+    "num": 94.2,
+    "Palabra": "biocida",
+    "sinonimo": [
+      "quien mata un animal"
+    ]
+  },
+  {
+    "num": 94.3,
+    "Palabra": "suicida",
+    "sinonimo": [
+        "quien se quita la vida"
+    ]
+  },
+  {
+    "num": 94.4,
+    "Palabra": "genocida",
+    "sinonimo": [
+      "quien mata a un grupo humano"
+    ]
+  },
+  {
+    "num": 94.5,
+    "Palabra": "Infanticida",
+    "sinonimo": [
+        "quien mata un infante"
+    ]
+  },
+  {
+    "num": 94.6,
+    "Palabra": "fraticida",
+    "sinonimo": [
+      "quien mata un hermano o hermana"
+    ]
+  },
+  {
+    "num": 94.7,
+    "Palabra": "Matricida",
+    "sinonimo": [
+      "quien mata a su madre"
+    ]
+  },
+  {
+    "num": 94.8,
+    "Palabra": "parricida",
+    "sinonimo": [
+      "quien mata a su padre"
+    ]
+  },
+  {
+    "num": 94.9,
+    "Palabra": "filicida",
+    "sinonimo": [
+      "quien mata a su hijo"
+    ]
+  },
+  {
+    "num": 94.91,
+    "Palabra": "Conyugicida",
+    "sinonimo": [
+      "quien mata a su cónyuge"
+    ]
+  },{
+    "num": 94.92,
+    "Palabra": "uxoricida",
+    "sinonimo": [
+      "quien mata a su esposa"
+    ]
+  },
+  {
+    "num": 94.93,
+    "Palabra": "deicida",
+    "sinonimo": [
+      "quien mata a un dios"
+    ]
+  },
+  {
+    "num": 94.94,
+    "Palabra": "regicida",
+    "sinonimo": [
+      "quien mata a un rey"
+    ]
+  },
+  {
+    "num": 94.95,
+    "Palabra": "tiranicida",
+    "sinonimo": [
+      "quien mata a un tirano"
+    ]
+  },
+  {
+    "num": 94.96,
+    "Palabra": "magnicida",
+    "sinonimo": [
+      "quien mata a una persona ilustre"
+    ]
+  },
+  {
+    "num": 95,
+    "Palabra": "dubitacion",
+    "sinonimo": [
+      "vacilación",
+      "fluctuación",
+      "oscilación"
+    ]
+  },
+  {
+    "num": 96,
+    "Palabra": "inopinado",
+    "sinonimo": [
+      "sorprendido",
+      "fortuito",
+      "subito"
+    ]
+  },
+  {
+    "num": 97,
+    "Palabra": "amaño",
+    "sinonimo": [
+      "artimaña",
+      "ardid",
+      "treta"
+    ]
+  },
+  {
+    "num": 98,
+    "Palabra": "suspicaz",
+    "sinonimo": [
+      "escéptico",
+      "receloso",
+      "desconfiado"
+    ]
+  },
+  {
+    "num": 99,
+    "Palabra": "equidad",
+    "sinonimo": [
+      "ecuanimidad",
+      "imparcialidad",
+      "justicia"
+    ]
+  }
+]
