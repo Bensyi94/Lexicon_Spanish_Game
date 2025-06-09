@@ -28,10 +28,11 @@ body {
     background-color: #f4f4f4;
     padding: 15px;
     border-radius: 10px;
-    gap: 15px;
+    gap: 50px;
     width: 100%;
     max-width: 600px;
     box-sizing: border-box;
+    align-items: center;
 }
 
 h1 {
@@ -129,8 +130,8 @@ h1 {
 
 #porcentaje {
     position: relative;
-    width: 90px;
-    height: 90px;
+    width: 80px;
+    height: 80px;
     background: conic-gradient(#155724 0% 0%, #b22230 0% 100%, #e0e0e0 100% 100%);
     border-radius: 50%;
     display: flex;
