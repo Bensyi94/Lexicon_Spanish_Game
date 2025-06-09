@@ -129,8 +129,8 @@ h1 {
 
 #porcentaje {
     position: relative;
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     background: conic-gradient(#155724 0% 0%, #b22230 0% 100%, #e0e0e0 100% 100%);
     border-radius: 50%;
     display: flex;
@@ -146,8 +146,8 @@ h1 {
 #porcentaje::before {
     content: '';
     position: absolute;
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     background: #f4f4f4;
     border-radius: 50%;
     z-index: 1;
@@ -166,16 +166,20 @@ h1 {
 
     main {
         width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .score {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
-        gap: 10px;
+        gap: 60px;
         padding: 10px;
     }
 
     h1 {
+        visibility: hidden;
         font-size: clamp(1.5rem, 4.5vw, 2rem);
     }
 
@@ -207,14 +211,14 @@ h1 {
     }
 
     #porcentaje {
-        width: 60px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
         font-size: clamp(0.9rem, 2.2vw, 1.1rem);
     }
 
     #porcentaje::before {
-        width: 45px;
-        height: 45px;
+        width: 60px;
+        height: 60px;
     }
 }
 
@@ -225,6 +229,9 @@ h1 {
 
     main{
         width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .score {
@@ -278,6 +285,7 @@ h1 {
 }
 
 /* Specific Media Query for Landscape Orientation */
+/*
 @media (orientation: landscape) {
     body {
         padding: 10px;
@@ -294,19 +302,19 @@ h1 {
         flex-direction: row;
         justify-content: center;
         align-items: center;
-        gap: 20px; /* Adjusted gap for landscape */
+        gap: 20px;
         flex-wrap: wrap;
     }
 
     #exercise, #history {
         width: 90%;
-        max-width: 800px; /* Slightly wider for landscape */
+        max-width: 800px;
         margin-left: auto;
         margin-right: auto;
     }
 
     h1 {
-        visibility: hidden; /* Ensure header is visible in landscape */
+        visibility: hidden;
         font-size: clamp(1.5rem, 3vw, 2rem);
     }
 
@@ -319,12 +327,12 @@ h1 {
     }
 
     #porcentaje {
-        width: 70px;
-        height: 70px;
+        width: 80px;
+        height: 80px;
     }
 
     #porcentaje::before {
-        width: 50px;
-        height: 50px;
+        width: 70px;
+        height: 70px;
     }
-}
+}/*

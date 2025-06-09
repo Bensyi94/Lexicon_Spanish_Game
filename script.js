@@ -110,6 +110,13 @@
             }
         });
 
+
+        history.push({
+            word: currentWord.Palabra,
+            selected: selected,
+            wasCorrect: selected === correctOption
+        })
+
         if (selected === correctOption) {
             corrects++;
             totalAnswers++;

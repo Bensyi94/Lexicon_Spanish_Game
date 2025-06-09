@@ -572,7 +572,7 @@
       "ininteligible", 
       "incomprensible", 
       "mentira", 
-      "falsa"
+      "farsa"
     ]
   },
   {
@@ -583,7 +583,7 @@
       "fraude", 
       "infundio", 
       "mentira", 
-      "falsa"
+      "farsa"
     ]
   },
   {
@@ -890,7 +890,7 @@
     "num": 92,
     "Palabra": "coercer",
     "sinonimo": [
-      "coatar", 
+      "coartar", 
       "restringir", 
       "limitar"
     ]
